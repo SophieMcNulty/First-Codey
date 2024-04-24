@@ -16,7 +16,7 @@ function update() {
 
 const config = {
 	type: Phaser.AUTO,
-	width: 400,
+	width: 500,
 	height: 500,
 	backgroundColor: "#5f2a55",
 	scene: {
