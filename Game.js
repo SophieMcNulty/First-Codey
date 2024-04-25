@@ -1,7 +1,6 @@
 const gameState = {}
 
 function preload() {
-  //bloublou
   this.load.image('codey', 'https://content.codecademy.com/courses/learn-phaser/codey.png');
 }
 
