@@ -11,8 +11,13 @@ function create() {
 }
 
 function update() {
+
   // Update based on keypress here!
- 
+ plays()
+}
+
+function play() {
+
 }
 
 const config = {
